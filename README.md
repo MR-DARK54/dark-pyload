@@ -18,5 +18,45 @@ The tool is for learning purpose only I am not responsible
 
 
 
+git clone https://github.com/MR-DARK54/dark-pyload
+
+
+
+
+
+cd dark-pyload
+
+
+
+
+
+chmod +x *
+
+
+
+
+
+
+
+
+ls
+
+
+
+
+
+
+
+
+bash dark-meta.sh
+
+
+
+
+
+# happy hack 
+
+
+
 
 
